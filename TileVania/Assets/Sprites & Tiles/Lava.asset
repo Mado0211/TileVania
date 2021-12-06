@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Lava
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: 1c95c263459540148843477e6eaf39c9, type: 3}
+    - {fileID: 21300000, guid: 0aaae0fc9d5c5264980182ac2448c5c0, type: 3}
+    - {fileID: 21300000, guid: 82fd29b22c71c214d95d27852915e98e, type: 3}
+    - {fileID: 21300000, guid: 2ef8c3f5e0e8242498117b848b1dd6d1, type: 3}
+    - {fileID: 21300000, guid: ea3cb4e88a2ef36489e3db986ea8dc96, type: 3}
+    - {fileID: 21300000, guid: 13becb37ec824e14f8f1e1aedb19d6d5, type: 3}
+    - {fileID: 21300000, guid: 05338ea865297fe40b20f86f9eac48ba, type: 3}
+    - {fileID: 21300000, guid: deeb6965f0437c24aba49b19b92e7b5e, type: 3}
+    - {fileID: 21300000, guid: b7815cb89ce1cdd49af4b4e11cf00738, type: 3}
+    - {fileID: 21300000, guid: 82adea24baf74a34a9f405996220e292, type: 3}
+    - {fileID: 21300000, guid: e0405129f56bcad46b5ee68859f63b57, type: 3}
+    - {fileID: 21300000, guid: 5d0e53c055097bf4ca0ebc3fb4ed5db6, type: 3}
+    - {fileID: 21300000, guid: 8524ad2da2061624389e7a08dc959532, type: 3}
+    - {fileID: 21300000, guid: 546561136671cd841be07d11c4688294, type: 3}
+    - {fileID: 21300000, guid: 24e29e3676f8bd64da73cf9185e7e168, type: 3}
+    - {fileID: 21300000, guid: e6d4362bbdbe6834789885b3a5ce6433, type: 3}
+    - {fileID: 21300000, guid: a240a6a91a819ed4aafec9ad8df9d2a0, type: 3}
+    - {fileID: 21300000, guid: 48152452f200a5841b739a862cc44b70, type: 3}
+    - {fileID: 21300000, guid: b7686861348e4a94fa254cd113cfe37c, type: 3}
+    - {fileID: 21300000, guid: b679e89f11054fe42941b2dadd498498, type: 3}
+    - {fileID: 21300000, guid: 6879f2addb32d2c428079478656973b2, type: 3}
+    - {fileID: 21300000, guid: 9a9bea788538ec241ae4d05a9e16102a, type: 3}
+    - {fileID: 21300000, guid: 2ba1e362d3252644c8a2d42477826af0, type: 3}
+    - {fileID: 21300000, guid: 691a8487bee116345a907ae041952e06, type: 3}
+    - {fileID: 21300000, guid: 2eae7c8f4b522794a953810dc4581a41, type: 3}
+    - {fileID: 21300000, guid: 8e29d689535121341a082522a9ba3b41, type: 3}
+    - {fileID: 21300000, guid: ba7e829fe445f0341be970bd2ab89f1b, type: 3}
+    - {fileID: 21300000, guid: 6601b8fef6a7d82468062f830e3ddb4d, type: 3}
+    - {fileID: 21300000, guid: 38e80267d18959543b96639d78c91c06, type: 3}
+    - {fileID: 21300000, guid: 7a06c3db08d3fd7478a3ea5d5ee004ef, type: 3}
+    - {fileID: 21300000, guid: 4d7df48165606cc4d8ab0816f35e28c4, type: 3}
+    - {fileID: 21300000, guid: 46501743fe6d1054aabbfbfdbd3d86f7, type: 3}
+    - {fileID: 21300000, guid: 16519b9fa1d86ff49b892c370ea051d5, type: 3}
+    - {fileID: 21300000, guid: 1b5c53b4adce510469dddaa9dc1b5d54, type: 3}
+    - {fileID: 21300000, guid: 54f00be66573eaf4eb4723c5a99542b8, type: 3}
+    - {fileID: 21300000, guid: 14402ab5001db5b49a950e2d259f4745, type: 3}
+    - {fileID: 21300000, guid: 8dfaa4d1a506f7c49a85528515d1a254, type: 3}
+    - {fileID: 21300000, guid: 052e1fe4150df4146af9cf6b079f0d85, type: 3}
+    - {fileID: 21300000, guid: 6a4a25f199b939343bb21aa79484f019, type: 3}
+    - {fileID: 21300000, guid: e735b87018dfa7c4ba93825441c54dd5, type: 3}
+    - {fileID: 21300000, guid: 81fb4c071b898194aa7dc887fbc2638a, type: 3}
+    - {fileID: 21300000, guid: 0f41fe028c708b847b6c5c718d441153, type: 3}
+    - {fileID: 21300000, guid: a5f3bf36d8f496349b9c4be38ca91f29, type: 3}
+    - {fileID: 21300000, guid: 8a2a7826967f8624d94df5000e37f27a, type: 3}
+    - {fileID: 21300000, guid: 5d38b850cb7db9d4794f2b3a7768fb78, type: 3}
+    m_AnimationSpeed: 9
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 2
+    m_ColliderType: 1
+    m_RandomTransform: 0

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attack Region
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Enemy
+  - Hazards
+  - Interactables
+  - Player Projectile
+  - Shootable
+  - Standing Arrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4113627283
+    locked: 0
+  - name: Climbing
+    uniqueID: 1980392285
+    locked: 0
+  - name: Enemy
+    uniqueID: 1415994743
+    locked: 0
+  - name: Hazards
+    uniqueID: 1800831465
+    locked: 0
+  - name: Player
+    uniqueID: 2244755569
+    locked: 0
+  - name: Foreground
+    uniqueID: 1759788393
+    locked: 0
+  - name: Interactables
+    uniqueID: 4280231055
+    locked: 0
+  - name: Player Projectile
+    uniqueID: 1893453091
+    locked: 0
